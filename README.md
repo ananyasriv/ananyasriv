@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Srivastava</h1>
 <h3 align="center">A passionate Computer Science Undergrad from India currently learning data analytics.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
 - 🌱 I’m currently learning **Data analysis, Sql, Python, R, etc**
 
 - 📫 How to reach me **ananya12vns@gmail.com**
